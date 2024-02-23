@@ -1,4 +1,4 @@
-Descriptions of .mat file data structure/organization are listed below for Figs. 2-9 of Aguirre, Woo et al., 2023 for the purpose of uploading to G-node.
+Descriptions of .mat file data structure/organization are listed below for Figs. 2-9 of Aguirre, Woo et al., 2024 for the purpose of uploading to G-node.
 
 Note: Select “AO_resample” or “SO_resample” substructures within each mat file for either action- or stimulus-based data, respectively.
 Figure 2 – BLA inhibition impairs action-based probabilistic reversal learning, whereas vlOFC inhibition only slows early adjustment to reversals
